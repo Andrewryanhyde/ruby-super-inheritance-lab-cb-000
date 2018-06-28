@@ -5,7 +5,10 @@ class Student
   end
 
   def raise_hand
-    puts "Pick me!"
+    while i < 10 do
+     puts "Pick me!"
+     i += 1
+   end
   end
 
 
