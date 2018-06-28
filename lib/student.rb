@@ -6,7 +6,7 @@ class Student
 
   def raise_hand
     i = 0
-    while i < 11 do
+    while i < 10 do
      puts "Pick me!"
      i += 1
    end
